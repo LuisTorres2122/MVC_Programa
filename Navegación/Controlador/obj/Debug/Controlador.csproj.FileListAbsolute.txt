@@ -1,0 +1,9 @@
+C:\Users\Developer\Documents\Navegación\Controlador\bin\Debug\Controlador.dll
+C:\Users\Developer\Documents\Navegación\Controlador\bin\Debug\Controlador.pdb
+C:\Users\Developer\Documents\Navegación\Controlador\obj\Debug\Controlador.csproj.AssemblyReference.cache
+C:\Users\Developer\Documents\Navegación\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Documents\Navegación\Controlador\obj\Debug\Controlador.dll
+C:\Users\Developer\Documents\Navegación\Controlador\obj\Debug\Controlador.pdb
+C:\Users\Developer\Documents\Navegación\Controlador\bin\Debug\Modelo.dll
+C:\Users\Developer\Documents\Navegación\Controlador\bin\Debug\Modelo.pdb
+C:\Users\Developer\Documents\Navegación\Controlador\obj\Debug\Controlador.csproj.CopyComplete
