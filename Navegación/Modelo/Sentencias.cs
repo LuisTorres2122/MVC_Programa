@@ -3,10 +3,29 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Data;
+using System.Data.Odbc;
+
 
 namespace Modelo
 {
-    class Sentencias
+   public class Sentencias
     {
+        Conexion con = new Conexion();
+
+        public void insertar(string tabla)
+        {
+            
+        }
+
+
+        public OdbcDataAdapter llenartabla(string tabla)
+        {
+            string sql = "select * from " + tabla + ";";
+            OdbcDataAdapter datatable = new OdbcDataAdapter(sql, con.conexion());
+            return datatable;
+        }
+
+
     }
 }
