@@ -13,7 +13,6 @@ C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\MVC_Programa\Navegación
 C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\MVC_Programa\Navegación\Vista\bin\Debug\Vista.pdb
 C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\MVC_Programa\Navegación\Vista\bin\Debug\Controlador.dll
 C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\MVC_Programa\Navegación\Vista\bin\Debug\Controlador.pdb
-C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\MVC_Programa\Navegación\Vista\obj\Debug\Vista.Navegador.resources
 C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\MVC_Programa\Navegación\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
 C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\MVC_Programa\Navegación\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
 C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\MVC_Programa\Navegación\Vista\obj\Debug\Vista.csproj.CopyComplete
@@ -21,6 +20,6 @@ C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\MVC_Programa\Navegación
 C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\MVC_Programa\Navegación\Vista\obj\Debug\Vista.pdb
 C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\MVC_Programa\Navegación\Vista\bin\Debug\Modelo.dll
 C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\MVC_Programa\Navegación\Vista\bin\Debug\Modelo.pdb
-C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\MVC_Programa\Navegación\Vista\obj\Debug\Vista.a2.resources
 C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\MVC_Programa\Navegación\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\MVC_Programa\Navegación\Vista\obj\Debug\Vista.Form1.resources
 C:\Users\luist\OneDrive\Universidad\8semestre\Analisis2\MVC_Programa\Navegación\Vista\obj\Debug\Vista.csprojAssemblyReference.cache

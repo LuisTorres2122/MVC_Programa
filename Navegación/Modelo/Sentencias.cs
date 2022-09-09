@@ -13,10 +13,7 @@ namespace Modelo
     {
         Conexion con = new Conexion();
 
-        public void insertar(string tabla)
-        {
-            
-        }
+        
 
 
         public OdbcDataAdapter llenartabla(string tabla)
@@ -26,6 +23,23 @@ namespace Modelo
             return datatable;
         }
 
+        public void insertar(string dato, string tipo, string tabla)
+        {
+            
+            string sql = "insert into " + tabla + "("+ tipo +") values ("+ dato +")";
+            OdbcCommand cmd = new OdbcCommand(sql, con.conexion());
+            cmd.ExecuteNonQuery();
+            
+        }
+
+        public void actualizar(string dato, string condicion, string tabla)
+        {
+
+            string sql = "Update " + tabla + " "+dato +" where "+condicion;
+            OdbcCommand cmd = new OdbcCommand(sql, con.conexion());
+            cmd.ExecuteNonQuery();
+
+        }
 
     }
 }

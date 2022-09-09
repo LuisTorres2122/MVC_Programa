@@ -19,17 +19,14 @@ namespace Prueba
 
         private void navegador1_Load(object sender, EventArgs e)
         {
-            dgv_tabla.DataSource = navegador1.refrescartabla(dgv_tabla.Tag.ToString());
+           
         }
 
-        void cargardatos()
-        {
-            dgv_tabla.DataSource = navegador1.refrescartabla(dgv_tabla.Tag.ToString());
-        }
+        
 
         private void navegador1_Click(object sender, EventArgs e)
         {
-            cargardatos();
+            
         }
 
     }
